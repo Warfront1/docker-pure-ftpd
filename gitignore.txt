@@ -1,0 +1,17 @@
+# Eclipse files
+.classpath
+.project
+*.project
+.settings/*
+
+# IntelliJ files
+.idea
+*.iml
+target
+
+
+#VS code
+settings.json
+
+#OS
+.DS_Store
